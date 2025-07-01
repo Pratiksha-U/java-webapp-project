@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tomjerryy-container
-        image: tomjerryy/sa-javaappbuildimg
+        image: tomjerryy/sa-ai-webapp
         ports:
         - containerPort: 8080
 ---
